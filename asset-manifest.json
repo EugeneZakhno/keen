@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/keen/static/css/main.f855e6bc.css",
+    "main.css": "/keen/static/css/main.712aa7e8.css",
     "main.js": "/keen/static/js/main.4a9ae151.js",
     "static/js/453.62639380.chunk.js": "/keen/static/js/453.62639380.chunk.js",
     "static/media/logo.svg": "/keen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/keen/index.html",
-    "main.f855e6bc.css.map": "/keen/static/css/main.f855e6bc.css.map",
+    "main.712aa7e8.css.map": "/keen/static/css/main.712aa7e8.css.map",
     "main.4a9ae151.js.map": "/keen/static/js/main.4a9ae151.js.map",
     "453.62639380.chunk.js.map": "/keen/static/js/453.62639380.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.712aa7e8.css",
     "static/js/main.4a9ae151.js"
   ]
 }
